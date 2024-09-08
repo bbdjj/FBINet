@@ -1,6 +1,6 @@
 
 # FBINet
-The code and trained model will be available upon acceptance of this paper for publication.
+
 
 **Rethinking Camouflage Object Detection via Foreground-Background Interactive learning**  
 
@@ -15,5 +15,5 @@ Camouflaged object detection focuses on the challenge of segmenting objects that
 - [Results](https://pan.baidu.com/s/15u_6SWNKlCGK_H0hIIkEaQ)
 - 提取码：fxss
 
-
-
+## Notice
+However, the codes need some reorganization and we will update manuscript on how to use the codes soon :).
