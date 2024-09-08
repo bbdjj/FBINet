@@ -15,7 +15,9 @@ Camouflaged object detection focuses on the challenge of segmenting objects that
 We provide the prediction maps of our FBINet model in camouflaged object detection.
 
 (Res2Net)[[baidu](https://pan.baidu.com/s/1PUQ9FTbexjVF3ehNBQMumA),PIN:e4f2] 
+
 (PVT)    [[baidu](https://pan.baidu.com/s/1ogoSWs2BZw2WG7uzxDcoZw),PIN:swqe] 
+
 (Swin)   [[baidu](https://pan.baidu.com/s/1EhtJDnE_CLtNz1z2-f6pPg),PIN:mx5e] 
 
 ## Notice
