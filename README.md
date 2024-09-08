@@ -12,7 +12,7 @@ Camouflaged object detection focuses on the challenge of segmenting objects that
 
 ## Prediction maps
 
-We provide the prediction maps of our FSEL model in camouflaged object detection, salient object detection, and polyp segmentation tasks.
+We provide the prediction maps of our FBINet model in camouflaged object detection.
 
 (Res2Net)[[baidu](https://pan.baidu.com/s/1PUQ9FTbexjVF3ehNBQMumA),PIN:e4f2] 
 (PVT)    [[baidu](https://pan.baidu.com/s/1ogoSWs2BZw2WG7uzxDcoZw),PIN:swqe] 
